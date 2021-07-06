@@ -32,7 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     </head>
     <body>
-         <h1>index.html</h1>
+         # <h1>index.html</h1>
     </body>
 </html>
 
