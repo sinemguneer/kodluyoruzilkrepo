@@ -26,8 +26,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-<img src="C:\Users\Sinem\Desktop\resim.jpg" alt="Proje resmi"/>
-![resim](https://user-images.githubusercontent.com/64503769/124667928-ca0b0280-deb8-11eb-916d-2c13f49d4a73.PNG)
+<img src="https://user-images.githubusercontent.com/64503769/124667928-ca0b0280-deb8-11eb-916d-2c13f49d4a73.PNG" alt="Proje resmi"/>
+
 
 
 <!DOCTYPE html>
