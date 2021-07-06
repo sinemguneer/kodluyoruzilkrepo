@@ -27,6 +27,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 <img src="C:\Users\Sinem\Desktop\resim.jpg" alt="Proje resmi"/>
+![resim](https://user-images.githubusercontent.com/64503769/124667928-ca0b0280-deb8-11eb-916d-2c13f49d4a73.PNG)
 
 
 <!DOCTYPE html>
