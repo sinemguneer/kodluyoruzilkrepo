@@ -38,7 +38,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
     </body>
 </html>
 
-
+ğ
 
 
 
