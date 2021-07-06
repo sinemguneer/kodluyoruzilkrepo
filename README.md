@@ -26,7 +26,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-<img src="resim.jpg" alt="Örnek Resim"/>
+<img src="C:\Users\Sinem\Desktop\resim.jpg" alt="Proje resmi"/>
 
 
 <!DOCTYPE html>
