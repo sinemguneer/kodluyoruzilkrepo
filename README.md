@@ -26,19 +26,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-<img src="https://user-images.githubusercontent.com/64503769/124667928-ca0b0280-deb8-11eb-916d-2c13f49d4a73.PNG" alt="Proje resmi"/>
 
-
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    </head>
-    <body>
-         <h1>index.html</h1>
-    </body>
-</html>
 
 
 
